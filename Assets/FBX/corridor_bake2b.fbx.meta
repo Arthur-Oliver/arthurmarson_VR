@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: fc8948ae1abe9e74db7a49d8c016488c
+guid: 1e71eb9e1691904469d6739f726f09ff
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -16,7 +16,7 @@ ModelImporter:
     2100000: corridor_beam
     2100002: corridor_celling
     2100004: corridor_floor
-    2100006: corridor_wall
+    2100006: corridor_walls
     2300000: beams
     2300002: celling
     2300004: Corridor
@@ -48,8 +48,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: corridor_wall
-    second: {fileID: 2100000, guid: aa89311bec03db14bacb7f16eccedcef, type: 2}
+      name: corridor_walls
+    second: {fileID: 2100000, guid: e7e09ee2e819adc419be886f94db7bf8, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
